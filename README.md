@@ -1,8 +1,8 @@
 # umu-shortcut
 
-[![GitHub Release](https://img.shields.io/github/v/release/NubiaMeow/umu-shortcut)](https://github.com/NubiaMeow/umu-shortcut)
+[![GitHub Release](https://img.shields.io/github/v/release/NubiaMeow/umu-shortcut)](https://github.com/NubiaMeow/umu-shortcut/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/NubiaMeow/umu-shortcut/total?color=blue)](https://github.com/NubiaMeow/umu-shortcut/releases/)
-[![GitHub License](https://img.shields.io/github/license/NubiaMeow/umu-shortcut?logo=gplv3)](https://github.com/NubiaMeow/umu-shortcut/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/NubiaMeow/umu-shortcut?color=blue)](https://github.com/NubiaMeow/umu-shortcut/blob/main/LICENSE)
 [![Static Badge](https://img.shields.io/badge/umu--launcher_repo-blue?logo=github)](https://github.com/Open-Wine-Components/umu-launcher)
 
 ## Requirements
