@@ -5,6 +5,8 @@
 [![GitHub License](https://img.shields.io/github/license/NubiaMeow/umu-shortcut?color=blue)](https://github.com/NubiaMeow/umu-shortcut/blob/main/LICENSE)
 [![Static Badge](https://img.shields.io/badge/umu--launcher_repo-blue?logo=github)](https://github.com/Open-Wine-Components/umu-launcher)
 
+**umu-shortcut is now on the AUR ([link](https://aur.archlinux.org/packages/umu-shortcut))**
+
 ## Requirements
 
 umu-shortcut requires Python 3 with the os, shutil and argparse libraries\
